@@ -1,1 +1,5 @@
-SIM 1A
+print("Lab 1: Version Control")
+print("Author: Rain Danielle Barquin")
+print("Student ID : TUPM-26-1221")
+print("Class Section: BSECE-1D")
+print("Login Feature Enabled")
